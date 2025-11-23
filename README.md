@@ -2,6 +2,12 @@
 
 A modern, responsive website for a cloud hosting platform. Loruki showcases cloud hosting services with a clean design, smooth animations, and a fully responsive layout.
 
+## 🔗 Live Demo
+
+You can view the live website here:  
+**[Live Preview](https://brilliant-bonbon-c28aec.netlify.app/)**
+
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
